@@ -31,7 +31,7 @@ For a full description of the methodology, experiment setup, and insights, pleas
 
 ## Citation
 
-If you use this dataset in your research, please cite our paper (citation details to be added after publication).
+If you use this dataset in your research, please cite our paper.
 
 ---
 
